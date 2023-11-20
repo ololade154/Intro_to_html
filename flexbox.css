@@ -1,0 +1,22 @@
+body{
+    height:100vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.flex_container{
+    display: flex;
+    background-color: darkgrey;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap:20px;
+
+}
+.item{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    color: white;
+    justify-content: center;
+    align-items: center; 
+    display: flex;
+    
+}

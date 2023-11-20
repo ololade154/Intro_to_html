@@ -1,0 +1,52 @@
+body{
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    display: flex;
+    background-color:rgb(5, 5, 179);
+}
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: darkgrey;
+}
+h4{
+    text-align: right;
+    font-family: 'Times New Roman', Times, serif;
+    color: darkgrey;
+}
+button{
+    width: 100%;
+    outline: 0;
+    border: 0;
+    margin-bottom: 0.5rem;
+padding:0.3rem 0.3rem;
+border-radius: 5px;
+font-size: 1rem;
+font-family: 'Times New Roman', Times, serif;
+color: darkgrey;
+}
+label{
+    color:darkgrey;
+    display: block;
+    font-weight: 300;
+    margin-bottom: 0.4rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+}
+input{
+    width: 100%;
+    outline: 0;
+    border: 0;
+    margin-bottom: 0.5rem;
+    padding: 0.3rem 0.3rem;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
